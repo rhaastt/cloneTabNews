@@ -1,5 +1,4 @@
 import React from "react";
-import Button from "../components/Button.tsx";
 import Header from "../components/Header.tsx";
 
 export default function HomePage() {
